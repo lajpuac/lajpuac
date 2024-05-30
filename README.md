@@ -1,5 +1,11 @@
 ## Hi there 👋
-<p>  hola</p>
+<div align="center">
+<h1 align="center">Hola👋, soy Leysi </h1>
+</div>
+
+<div align="center">
+<p align="center">Quiero convertirme en programadora Frontend  </p>
+</div>
 <!--
 **lajpuac/lajpuac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
