@@ -6,6 +6,8 @@
 <div align="center">
 <p align="center">Soy estudiante de Ingeniería en Sistemas con gusto por el desarrollo de frontend y diseño de interfaces, aprendiendo continuamente, aplico mis conocimientos a los diferentes proyectos. </p>
 
+<p>Se sobre: CSS, HTML, JAVA, PYTHON y un poco de PHP</p>
+
 <div align="center>
   
 </div>
